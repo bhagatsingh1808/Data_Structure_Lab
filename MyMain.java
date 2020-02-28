@@ -33,5 +33,3 @@ public class MyMain{
 
 	}
 }
-
-/* write a program to create a tree by traversingh the existing tree in InOrder.*/
